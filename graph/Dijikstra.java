@@ -1,4 +1,4 @@
-package SlidingWindow;
+package graph;
 
 import java.util.ArrayList;
 import java.util.Arrays;
